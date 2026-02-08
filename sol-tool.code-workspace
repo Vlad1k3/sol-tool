@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../sol-tool-relay"
+		},
+		{
+			"path": "../seed_recover"
+		}
+	],
+	"settings": {}
+}
